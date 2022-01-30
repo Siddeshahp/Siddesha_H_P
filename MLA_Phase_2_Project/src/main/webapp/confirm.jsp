@@ -9,7 +9,7 @@
 <body>
 <center>
 
-<h1><b>Thank you for booking on FlyAway !!</b></h1>
+<h1><b>Thank you for booking on Ticket !!</b></h1>
 <br><br><br>
 
 <form onload="confirmServlet">

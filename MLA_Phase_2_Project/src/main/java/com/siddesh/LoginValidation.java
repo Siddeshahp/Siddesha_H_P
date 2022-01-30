@@ -48,11 +48,11 @@ public class LoginValidation extends HttpServlet {
 				
 				if(username.equals("siddu@gmail.com"))
 				{
-					response.sendRedirect("adminpage.jsp");
+					response.sendRedirect("home.jsp");
 				}
 				else
 				{
-					response.sendRedirect("home.jsp");
+					response.sendRedirect("adminpage.jsp");
 				}
 				session.setAttribute("user", user);
 			} else {

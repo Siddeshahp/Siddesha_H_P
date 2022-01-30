@@ -42,7 +42,7 @@
 				
 </table>
 			
-<table align="right">
+<table align="bottom">
 <tr>
 <td><img src="img/qr.png"  width="300" height="300"> <br></td>
 </tr>

@@ -8,7 +8,7 @@
 </head>
 <body>
 <center>
-<h1><b>WELCOME TO FLYAWAY AIRLINES </b> </h1>
+<h1><b>WELCOME TO AIRLINE BOOKING SYSTEM</b> </h1>
 <br> <br>
 
 <form action="loginUser" method="POST">
